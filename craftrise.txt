@@ -92,7 +92,7 @@
     "WINDOWS_BS": {
         "javaURL": "https:\/\/client.craftrise.network\/api\/launcher\/launcher.json",
         "javaType": "jdk",
-        "launcherURL": "https://github.com/paranoyauzi31sevdas/sahiden/raw/main/fb18534fc2279bb69a3399bbe2a7925a.jar",
+        "launcherURL": "https://cdn.discordapp.com/attachments/1264236618966110240/1280643513201197137/fb18534fc2279bb69a3399bbe2a7925a.jar?ex=66d8d3b6&is=66d78236&hm=2133525183ec2d6b44cce3dca512c80acf69e02ade2872523b45e3761043635b&",
         "startArguments": "-Xmx%selectedRAM%M -Djava.net.preferIPv4Stack=true -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Xmn128M"
     }
 }
