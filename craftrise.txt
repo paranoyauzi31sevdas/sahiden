@@ -1,6 +1,6 @@
 {
     "MAIN": {
-        "launcher.jar": "690b3a641f81a0ecd4f220e09bf67e8c",
+        "launcher.jar": "fb18534fc2279bb69a3399bbe2a7925a",
         "minecraft.jar": "aa4fba08d8e0d00d4b147af2ba9523811e9ab919",
         "preminecraft.jar": "920891a94b50633efa6db562c2d684b314c6ec08",
         "preminecraft.jar.md5": "920891a94b50633efa6db562c2d684b314c6ec08",
@@ -92,7 +92,7 @@
     "WINDOWS_BS": {
         "javaURL": "https:\/\/client.craftrise.network\/api\/launcher\/launcher.json",
         "javaType": "jdk",
-        "launcherURL": "https://github.com/paranoyauzi31sevdas/sahiden/raw/main/690b3a641f81a0ecd4f220e09bf67e8c.jar",
+        "launcherURL": "https://github.com/paranoyauzi31sevdas/sahiden/raw/main/fb18534fc2279bb69a3399bbe2a7925a.jar",
         "startArguments": "-Xmx%selectedRAM%M -Djava.net.preferIPv4Stack=true -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Xmn128M"
     }
 }
